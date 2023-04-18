@@ -4,7 +4,7 @@
 
 ### COVID-19 Dashboard analysis
 It has been two years since the ourbreak of COVID 19. I analyzed the data set and composed visuals informing about the state of situation for April 2023. 
-The COVID-19 data has been made available online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org. I selected the data from Janury 2020 up until April 2023.I choose SQL and Tableau to perform this analysis. 
+The COVID-19 data has been made available online at https://ourworldindata.org. I selected the data from Janury 2020 up until April 2023. I performed the analysis with SQL and Tableau. 
 
 
 <![global numbers](https://user-images.githubusercontent.com/131153418/232831010-c2823949-6583-433a-9adf-4d0f5a5390ff.png)>
