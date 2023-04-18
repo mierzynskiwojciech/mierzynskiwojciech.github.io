@@ -17,7 +17,7 @@ The COVID-19 data has been made available online at OurWorldInData.org. Retrieve
 <![infection rate](https://user-images.githubusercontent.com/131153418/232831087-a2ea2dc9-e336-4cce-93f6-6f28c9c2b9f2.png)>
 
 - [View Code on Github](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/blob/master/SQLQuery1.sql)
-- [View Visuals on Tableau]([https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/blob/master/SQLQuery1.sql](https://public.tableau.com/views/CovidPortfolioProject1704/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+- [View Visuals on Tableau](https://public.tableau.com/views/CovidPortfolioProject1704/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
 
