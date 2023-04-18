@@ -2,30 +2,36 @@
 
 ---
 
-### Category Name 1 
+### COVID-19 Dashboard analysis
+### It has been two years since the ourbreak of COVID 19. I analyzed the data set and composed visuals informing about the state of situation for April 2023. 
+### The COVID-19 data has been made available online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org. I selected the data from Janury 2020 up until April 2023.I choose SQL and Tableau to perform this analysis. 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[](/sample_page)
+<![global numbers](https://user-images.githubusercontent.com/131153418/232831010-c2823949-6583-433a-9adf-4d0f5a5390ff.png)>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[](/pdf/sample_presentation.pdf)
+<![continents](https://user-images.githubusercontent.com/131153418/232831099-de2dd7d5-3866-46a6-9ab4-8280324a3c11.png)>
+
+---
+[](http://example.com/)
+<![population infected in selected countries](https://user-images.githubusercontent.com/131153418/232831026-0c2d25ab-e0e5-4ce8-916d-90890ab23809.png)>
+
+![peoplevaccinated](https://user-images.githubusercontent.com/131153418/232831055-63a969e7-2fc5-4613-ac7f-58a0c2649f81.png)
+![infection rate](https://user-images.githubusercontent.com/131153418/232831087-a2ea2dc9-e336-4cce-93f6-6f28c9c2b9f2.png)
+
+- [View Code on Github](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/blob/master/SQLQuery1.sql)
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [View Code on Github](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/blob/master/SQLQuery1.sql)
+
 
 ---
+
+
 
 
 
