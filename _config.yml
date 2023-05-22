@@ -1,22 +1,20 @@
 title: Wojciech Mierzynski 
 logo: "/images/headshot2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-As a Master's graduate in International Business Administration specializing in data science and technology management, 
-I am highly motivated to leverage my expertise and practical knowledge in a Data Analyst capacity. 
-I bring proficiency in MS Excel, MySQL, RStudio, Python, and Tableau, as well as experience in project management and collaborative teamwork.
-My analytical and team-oriented skills were effectively sharpened during my tenure as a Junior Finance Manager at We Are Era GmbH, 
-as a working student in accounting at Signavio GmbH,
-and my internship at BMW AG. 
-These experiences have equipped me with a comprehensive understanding of both the dynamics of a large-scale multinational company 
-and the agility of smaller tech-driven enterprises. 
+description: As a Master's graduate in International Business Administration specializing in data science and technology management, 
+description: I am highly motivated to leverage my expertise and practical knowledge in a Data Analyst capacity. 
+description: I bring proficiency in MS Excel, MySQL, RStudio, Python, and Tableau, as well as experience in project management and collaborative teamwork.
+description: My analytical and team-oriented skills were effectively sharpened during my tenure as a Junior Finance Manager at We Are Era GmbH, 
+description: as a working student in accounting at Signavio GmbH,
+description: and my internship at BMW AG.
+description: These experiences have equipped me with a comprehensive understanding of both the dynamics of a large-scale multinational company 
+description: and the agility of smaller tech-driven enterprises.''
   <br><br>
 
   <br><br>
   
   <br><br>
-  
- 
-[View My LinkedIn](https://www.linkedin.com/in/wojciech-mierzynski-1995521b4/)
+  [View My LinkedIn](https://www.linkedin.com/in/wojciech-mierzynski-1995521b4/)
   
   
 theme: jekyll-theme-minimal
