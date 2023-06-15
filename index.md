@@ -1,6 +1,20 @@
-## Portfolio
+## Selected projects in data science
 
 ---
+### How does a bike-share navigate speedy success? (Google Data Analytics Certification Capstone Case Study)
+
+This is a capstone project for the Google Data Analysis Certificate on Coursera. In this project, I am a part of marketing analysis team, working for the fictional bike share company Cyclistic. The company aims to maximize annual memberships for future success. Instead of targeting new customers, the focus is on converting casual riders into annual members. By analyzing the usage patterns of annual members and casual riders, I developed a data-driven marketing strategy. My goal is to present compelling data insights and professional visualizations to convince the Cyclistic executives.
+
+![top10 stations](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/3435e613-f070-4e5a-8dce-4d094838c37e)
+
+![ride type preference22](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/b053790f-99d0-442c-b634-6d207b56b8c3)
+
+![avg journey time](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/0e9fed38-55f6-45ff-a20b-c5a388f45173)
+
+[View Project on Medium](https://medium.com/p/5e6a81e7db5/edit)
+
+[View Visuals on Tableau](https://public.tableau.com/views/bikesharing_16867706715390/CyclistBikeshare?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
 ### COVID-19 Dashboard analysis
 It has been a span of two years since the onset of the COVID-19 pandemic. I have examined the dataset encompassing this crucial period and have utilized visualization techniques to present comprehensive t
