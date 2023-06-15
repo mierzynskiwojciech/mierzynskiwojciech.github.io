@@ -3,7 +3,7 @@
 ---
 ### How does a bike-share navigate speedy success? (Google Data Analytics Certification Capstone Case Study)
 
-This is a capstone project for the Google Data Analysis Certificate on Coursera. In this project, I am a part of marketing analysis team, working for the fictional bike share company Cyclistic. The company aims to maximize annual memberships for future success. Instead of targeting new customers, the focus is on converting casual riders into annual members. By analyzing the usage patterns of annual members and casual riders, I developed a data-driven marketing strategy. My goal is to present compelling data insights and professional visualizations to convince the Cyclistic executives.
+This is a capstone project for the Google Data Analysis Certificate on Coursera. In this project, I am a part of the marketing analysis team, working for the fictional bike-share company Cyclistic. The company aims to maximize annual memberships for future success. I developed a data-driven marketing strategy by analyzing the usage patterns of annual members and casual riders. I aim to present compelling data insights and professional visualizations to convince the Cyclistic executives.
 
 ![top10 stations](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/3435e613-f070-4e5a-8dce-4d094838c37e)
 
