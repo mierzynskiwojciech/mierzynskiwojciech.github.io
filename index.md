@@ -23,10 +23,6 @@ The COVID-19 data, sourced from January 2020 through April 2023, has been conven
 
 
 ![global numbers 2205](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/b451ecf7-9136-4d54-b00d-83024efc0119)
-
-
-![continents](https://user-images.githubusercontent.com/131153418/232831099-de2dd7d5-3866-46a6-9ab4-8280324a3c11.png)
-
 ![ppl vaccinated 2205](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/fa3200f3-5494-4deb-a8c1-87ec95d434a1)
 ![population infected in selected countries](https://user-images.githubusercontent.com/131153418/232831026-0c2d25ab-e0e5-4ce8-916d-90890ab23809.png)
 ![perpopinf2205](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/2294a5d5-ce79-4f40-ae6a-0caf97a9cf67)
