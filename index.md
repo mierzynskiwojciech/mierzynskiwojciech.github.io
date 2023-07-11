@@ -5,7 +5,7 @@
 
 Skills used:
 
--Data Integration - Data Cleaning - Data Transformation - Data Manipulation - Database Querying in SQL - Data Visualization - Charting and Graphing - Data Exploration -Data Interpretation - Storytelling with Data - Data Presentation - Data Visualization Tools (Tableau) - Data-Driven Decision Making - SQL Aggregate Functions 
+-Data Integration -Data Cleaning -Data Transformation -Data Manipulation -Database Querying in SQL -Data Visualization -Charting and Graphing -Data Exploration -Data Interpretation -Storytelling with Data -Data Presentation -Data Visualization Tools (Tableau) -Data-Driven Decision Making -SQL Aggregate Functions 
 
 This is a capstone project for the Google Data Analysis Certificate on Coursera. In this project, I am a part of the marketing analysis team, working for the fictional bike-share company Cyclistic. The company aims to maximize annual memberships for future success. I developed a data-driven marketing strategy by analyzing the usage patterns of annual members and casual riders. I aim to present compelling data insights and professional visualizations to convince the Cyclistic executives.
 
@@ -24,7 +24,7 @@ This is a capstone project for the Google Data Analysis Certificate on Coursera.
 
 Skills used:
 
--Data Integration - Data Cleaning - Data Sorting - Pivot Tables - Data Filtering - Data Formatting -Data Transformation - Data Manipulation - Database Querying in SQL - Data Visualization - Charting and Graphing - Data Exploration - Data Interpretation - Storytelling with Data - Data Presentation - Data Visualization Tools (Tableau) - SQL Aggregate Functions - SQL Joins
+-Data Integration -Data Cleaning -Data Sorting -Pivot Tables -Data Filtering -Data Formatting -Data Transformation -Data Manipulation -Database Querying in SQL -Data Visualization -Charting and Graphing -Data Exploration -Data Interpretation -Storytelling with Data -Data Presentation -Data Visualization Tools (Tableau) -SQL Aggregate Functions -SQL Joins
   
 It has been a span of two years since the onset of the COVID-19 pandemic. I have examined the dataset encompassing this crucial period and have utilized visualization techniques to present comprehensive t
 
