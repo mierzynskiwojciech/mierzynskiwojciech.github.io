@@ -26,7 +26,7 @@ Skills used:
 
 -Data Integration -Data Cleaning -Data Sorting -Pivot Tables -Data Filtering -Data Formatting -Data Transformation -Data Manipulation -Database Querying in SQL -Data Visualization -Charting and Graphing -Data Exploration -Data Interpretation -Storytelling with Data -Data Presentation -Data Visualization Tools (Tableau) -SQL Aggregate Functions -SQL Joins
   
-It has been a span of two years since the onset of the COVID-19 pandemic. I have examined the dataset encompassing this crucial period and have utilized visualization techniques to present comprehensive t
+It has been a span of two years since the onset of the COVID-19 pandemic. I have examined the dataset encompassing this crucial period and have utilized visualization techniques to present comprehensive insights regarding the prevailing circumstances as of April 2023.
 
 The COVID-19 data, sourced from January 2020 through April 2023, has been conveniently accessible through the esteemed online repository located at https://ourworldindata.org. Employing the proficient combination of SQL and Tableau, I conducted an analysis to unravel valuable observations.
 
