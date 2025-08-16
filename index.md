@@ -23,7 +23,7 @@ From a business point of view, these findings suggest a few actions:
 
 - Promote memberships during the summer months, when casual ridership is highest.
 
-- Tailor marketing: highlight the convenience of annual memberships for weekday commuters, and the cost savings for weekend riders who use bikes a lot in summer.
+- Design targeted promotional campaigns focusing on converting casual riders into annual members, emphasizing the benefits for daily activities.
 
 - Focus marketing efforts around downtown areas, where visibility is highest.
 
@@ -50,21 +50,21 @@ This project was something I worked on independently because I was curious about
 
 I imported the dataset into SQL, where I focused on cleaning and transforming the data — removing duplicates, fixing missing values, and making sure the time-series data was consistent. Then I built a dashboard in Tableau that tracked:
 
-- Daily and cumulative cases
+- Global numbers as for 13th of April 2023
 
-- Death rates across regions
+- Percentage of population vaccinated per country
 
-- Vaccination progress by country
+- Percent Population Infected in selected countries
 
-- Comparisons between continents
+- Percent of people infected per country in year 2023
 
 #### What I Found
 
-The data showed distinct peaks and valleys, which aligned with how different regions handled restrictions.
+By this point in the pandemic, COVID-19 had infected hundreds of millions worldwide. The global totals underline how far-reaching the crisis was, even as vaccination campaigns were well underway.
 
-Countries with higher vaccination rates saw a noticeable drop in death rates after vaccines rolled out.
+Some countries saw much higher infection percentages than others, reflecting differences in government policies, healthcare systems, and pandemic response strategies.
 
-Europe and North America had similar infection waves, while Asia showed a flatter curve early on but caught up later.
+Vaccination uptake also showed strong variation. Many high-income countries achieved very high coverage, whereas other regions lagged behind.
 
 #### Why It Matters
 
