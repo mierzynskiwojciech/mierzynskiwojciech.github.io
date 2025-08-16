@@ -44,14 +44,41 @@ This project gave me practice in the full analytics cycle: cleaning and transfor
 
 ### COVID-19 Dashboard analysis
 
-Skills used:
+This project was something I worked on independently because I was curious about the global impact of COVID-19 on health and society, and I wanted to practice pulling insights from a large, messy dataset. I used data from Our World in Data covering cases, deaths, and vaccinations over a two-year period.
 
--Data Integration -Data Cleaning -Data Sorting -Pivot Tables -Data Filtering -Data Formatting -Data Transformation -Data Manipulation -Database Querying in SQL -Data Visualization -Charting and Graphing -Data Exploration -Data Interpretation -Storytelling with Data -Data Presentation -Data Visualization Tools (Tableau) -SQL Aggregate Functions -SQL Joins
-  
-It has been a span of two years since the onset of the COVID-19 pandemic. I have examined the dataset encompassing this crucial period and have utilized visualization techniques to present comprehensive insights regarding the prevailing circumstances as of April 2023.
+#### What I Did
 
-The COVID-19 data, sourced from January 2020 through April 2023, has been conveniently accessible through the esteemed online repository located at https://ourworldindata.org. Employing the proficient combination of SQL and Tableau, I conducted an analysis to unravel valuable observations.
+I imported the dataset into SQL, where I focused on cleaning and transforming the data — removing duplicates, fixing missing values, and making sure the time-series data was consistent. Then I built a dashboard in Tableau that tracked:
 
+- Daily and cumulative cases
+
+- Death rates across regions
+
+- Vaccination progress by country
+
+- Comparisons between continents
+
+#### What I Found
+
+The data showed distinct peaks and valleys, which aligned with how different regions handled restrictions.
+
+Countries with higher vaccination rates saw a noticeable drop in death rates after vaccines rolled out.
+
+Europe and North America had similar infection waves, while Asia showed a flatter curve early on but caught up later.
+
+#### Why It Matters
+
+Even though this was an educational project, it highlighted the power of dashboards in helping decision-makers quickly spot trends and react. For example:
+
+-Governments could see which regions needed urgent vaccine distribution.
+
+-Health organizations could track how restrictions or policies impacted case numbers.
+
+-The general public could better understand the situation with clear visuals instead of raw numbers.
+
+#### My Takeaway
+
+This project taught me the importance of storytelling with data. A dataset on its own can be overwhelming, but by cleaning it, visualizing it, and connecting the dots, I learned how to create something that both informs and guides action. It also gave me more confidence in using SQL and Tableau together in real-world scenarios.
 
 ![global numbers 2205](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/b451ecf7-9136-4d54-b00d-83024efc0119)
 ![ppl vaccinated 2205](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/fa3200f3-5494-4deb-a8c1-87ec95d434a1)
