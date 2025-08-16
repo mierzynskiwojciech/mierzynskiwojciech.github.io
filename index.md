@@ -3,11 +3,33 @@
 ---
 ### How does a bike-share navigate speedy success? (Google Data Analytics Certification Capstone Case Study)
 
-Skills used:
+This was my capstone project for the Google Data Analytics Certificate. The goal was to help Cyclistic, a fictional bike-share company in Chicago, figure out how to turn more of their casual riders into annual members.
 
--Data Integration -Data Cleaning -Data Transformation -Data Manipulation -Database Querying in SQL -Data Visualization -Charting and Graphing -Data Exploration -Data Interpretation -Storytelling with Data -Data Presentation -Data Visualization Tools (Tableau) -Data-Driven Decision Making -SQL Aggregate Functions 
+What I Did
 
-This is a capstone project for the Google Data Analysis Certificate on Coursera. In this project, I am a part of the marketing analysis team, working for the fictional bike-share company Cyclistic. The company aims to maximize annual memberships for future success. I developed a data-driven marketing strategy by analyzing the usage patterns of annual members and casual riders. I aim to present compelling data insights and professional visualizations to convince the Cyclistic executives.
+I worked with trip data from April 2020 to April 2021. Using SQL, I cleaned and prepared the data (removing duplicates, fixing missing values, calculating ride times, etc.). After that, I analyzed usage patterns and built visualizations in Tableau to compare casual riders with annual members.
+
+What I Found
+
+- Members usually rode on weekdays, often for shorter trips, which looked like commuting. Casual riders, on the other hand, tended to ride on weekends and took longer trips — more for leisure.
+
+- Both groups rode more in summer and less in winter, but the difference was especially clear with casual riders.
+
+- Downtown stations had the highest activity for both groups, making them a good place to focus marketing.
+
+Why It Matters
+
+From a business point of view, these findings suggest a few actions:
+
+- Promote memberships during the summer months, when casual ridership is highest.
+
+- Tailor marketing: highlight the convenience of annual memberships for weekday commuters, and the cost savings for weekend riders who use bikes a lot in summer.
+
+- Focus marketing efforts around downtown areas, where visibility is highest.
+
+My Takeaway
+
+This project gave me practice in the full analytics cycle: cleaning and transforming raw data, running SQL queries, building dashboards, and — most importantly — turning data into recommendations a business can act on. It showed me how analysis isn’t just about numbers, but about telling a story that helps decision-makers see the next step.
 
 ![top10 stations](https://github.com/mierzynskiwojciech/mierzynskiwojciech.github.io/assets/131153418/3435e613-f070-4e5a-8dce-4d094838c37e)
 
