@@ -5,11 +5,11 @@
 
 This was my capstone project for the Google Data Analytics Certificate. The goal was to help Cyclistic, a fictional bike-share company in Chicago, figure out how to turn more of their casual riders into annual members.
 
-What I Did
+# What I Did
 
 I worked with trip data from April 2020 to April 2021. Using SQL, I cleaned and prepared the data (removing duplicates, fixing missing values, calculating ride times, etc.). After that, I analyzed usage patterns and built visualizations in Tableau to compare casual riders with annual members.
 
-What I Found
+# What I Found
 
 - Members usually rode on weekdays, often for shorter trips, which looked like commuting. Casual riders, on the other hand, tended to ride on weekends and took longer trips — more for leisure.
 
@@ -17,7 +17,7 @@ What I Found
 
 - Downtown stations had the highest activity for both groups, making them a good place to focus marketing.
 
-Why It Matters
+# Why It Matters
 
 From a business point of view, these findings suggest a few actions:
 
@@ -27,7 +27,7 @@ From a business point of view, these findings suggest a few actions:
 
 - Focus marketing efforts around downtown areas, where visibility is highest.
 
-My Takeaway
+# My Takeaway
 
 This project gave me practice in the full analytics cycle: cleaning and transforming raw data, running SQL queries, building dashboards, and — most importantly — turning data into recommendations a business can act on. It showed me how analysis isn’t just about numbers, but about telling a story that helps decision-makers see the next step.
 
